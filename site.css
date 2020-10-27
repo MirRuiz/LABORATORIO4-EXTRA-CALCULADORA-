@@ -1,0 +1,26 @@
+h1{ 
+    background-color: coral;
+    text-align: center;
+    margin-block-end: 50px;
+   }
+#container-body{
+    text-align: center;
+
+}
+#botones{
+    margin-top: 40px;
+    background-color: darkgrey;
+}
+#boton-suma{
+    margin-right: 10px;
+}
+#boton-resta{
+    margin-right: 10px;
+}
+#boton-igual{
+    margin-left: 10px;
+}
+#boton-dividir{
+    margin-left: 10px;
+
+}
